@@ -1,6 +1,6 @@
 # Navigo PDF Chrome extension — privacy policy
 
-Effective date: September 7, 2026. Scope: Navigo PDF Chrome extension 1.0.0.
+Effective date: September 7, 2026. Scope: Navigo PDF Chrome extension 1.0.1.
 
 ## What Navigo PDF does
 
